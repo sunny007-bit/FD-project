@@ -1,0 +1,18 @@
+<html>
+	
+	<body>
+		<center>
+		
+		<table border="10">
+			<form>
+				
+			ENTER OTP:<br><input type="text" class="form-control" placeholder="0" maxlength="1"  />
+							<input type="text" class="form-control" placeholder="0" maxlength="1" />
+							<input type="text" class="form-control" placeholder="0" maxlength="1" />
+							<input type="text" class="form-control" placeholder="0" maxlength="1" /><br><br>
+			<a href="gen.html" >submit</a>
+		</table>
+		
+		</center>
+	</body>
+</html>

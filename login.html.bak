@@ -1,0 +1,27 @@
+<html>
+	<head>
+	<h1 align="center">
+		LOGIN
+	</h1>
+	
+	</head>
+	<body bgcolor="FAAFBA">
+		<center>
+		
+		<table border="10">
+			<form>
+				<label>CHOOSE YOUR DESIGNATION :</label><br><br>
+
+					<select >
+						<option value="patient">patient</option>
+						<option value="docter">doctor</option>
+						<option value="lab inchatge">lab incharge</option>
+						<option value="nurse">nurse/other hospital staff</option>
+					</select><br><br>
+			HEALTHCARE ID:<br><input type="text" name="n3" placeholder="addhar/unq health care number"><br><br>
+			<a href="homep.html" >login</a>
+			<a href="otp.html" >.</a>
+		</table>
+		</center>
+	</body>
+</html>

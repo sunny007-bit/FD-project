@@ -1,0 +1,14 @@
+<html>
+	
+	<body>
+		<center>
+		
+		<table border="10">
+			<form>
+				
+			<a href="register.html" >REGISTER</a><br><br>
+			<a href="login.html" >LOGIN</a>
+		</table>
+		</center>
+	</body>
+</html>
